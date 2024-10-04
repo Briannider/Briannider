@@ -18,7 +18,7 @@ Hola 👋, soy Brian Carballo, un apasionado programador de 24 años con sede en
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Briannider&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🥇 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Briannider&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
