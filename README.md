@@ -30,7 +30,7 @@ I'm a passionate 25-year-old programmer based in Argentina (Bariloche), ready to
 
 <a href="https://www.buymeacoffee.com/briannider"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a><br>
 
------------------------------
+------------------------------
 Thank you for visiting my profile, and I look forward to the possibility of working together in the future!<br><br>Best regards, Brian Carballo.<br>
------------------------------
+------------------------------
 [![](https://visitcount.itsvg.in/api?id=Briannider&icon=2&color=5)](https://visitcount.itsvg.in)
