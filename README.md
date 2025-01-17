@@ -19,7 +19,8 @@ I'm a passionate 25-year-old programmer based in Argentina (Bariloche), ready to
 
 ### Badges
 <a href="https://openbadgefactory.com/v1/assertion/6be6799081674a6c4b8cff0ed03bdee6c8ae7c7c">
-<b>Python</b>
+<b>Python</b></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Briannider"><img src="https://github-readme-stats.vercel.app/api?username=Briannider&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Briannider's GitHub stats" /></a>
